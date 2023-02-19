@@ -1,0 +1,15 @@
+C:\Users\Murat\Desktop\dizi\bin\Debug\net7.0\dizi.exe
+C:\Users\Murat\Desktop\dizi\bin\Debug\net7.0\dizi.deps.json
+C:\Users\Murat\Desktop\dizi\bin\Debug\net7.0\dizi.runtimeconfig.json
+C:\Users\Murat\Desktop\dizi\bin\Debug\net7.0\dizi.dll
+C:\Users\Murat\Desktop\dizi\bin\Debug\net7.0\dizi.pdb
+C:\Users\Murat\Desktop\dizi\obj\Debug\net7.0\dizi.csproj.AssemblyReference.cache
+C:\Users\Murat\Desktop\dizi\obj\Debug\net7.0\dizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murat\Desktop\dizi\obj\Debug\net7.0\dizi.AssemblyInfoInputs.cache
+C:\Users\Murat\Desktop\dizi\obj\Debug\net7.0\dizi.AssemblyInfo.cs
+C:\Users\Murat\Desktop\dizi\obj\Debug\net7.0\dizi.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\dizi\obj\Debug\net7.0\dizi.dll
+C:\Users\Murat\Desktop\dizi\obj\Debug\net7.0\refint\dizi.dll
+C:\Users\Murat\Desktop\dizi\obj\Debug\net7.0\dizi.pdb
+C:\Users\Murat\Desktop\dizi\obj\Debug\net7.0\dizi.genruntimeconfig.cache
+C:\Users\Murat\Desktop\dizi\obj\Debug\net7.0\ref\dizi.dll
